@@ -1,4 +1,4 @@
-# cybersecurity## Automated ELK Stack Deployment
+## Automated ELK Stack Deployment
 
 https://docs.google.com/document/d/1in7w8S2agPMOMxw2-w7An5bz8xXp19773atkbRlqv4Y/edit?usp=sharing 
 
